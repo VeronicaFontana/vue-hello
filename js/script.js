@@ -4,7 +4,8 @@ createApp({
 
   data(){
     return{
-      saluto: "Hello Vue!"
+      saluto: "Hello Vue!",
+      img: "https://placekitten.com/200/300"
     }
   }
 
